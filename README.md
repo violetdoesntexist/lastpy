@@ -2,12 +2,23 @@
 python program to fetch information from last fm and display it in terminal (WORK IN PROGRESS)
 # WILL BE UPDATED SOON
 # HOW TO USE?
-install needed packages from requirements.txt
-on first run you will be asked to enter your last fm username and api key
-after providing both you will be able to use the command fm to fetch the latest scrobble
+## theres now 2 options to use this program
+### ANYWHERE: OVER PYTHON
+install requirements .txt
+excecute main.py
+### WINDOWS ONLY: USE EXE
+install the zip file in releases, extract and excecute main.exe
+## COMMANDS
+### fm = shows last played/currently playing
+### ta = shows list of top artists in specified timespan:
+valid periods = "overall", "7day", "1month", "3month", "6month", "12month"
+valid ammounts 1-200
+defaults:
+period = overall
+limit = 10
+
 
 # PLANS
-## Adding charts and top lists
 ## adding scrobbling via command
 ## making application accessible via terminal
 ## visual improvements
