@@ -7,8 +7,8 @@ on first run you will be asked to enter your last fm username and api key
 after providing both you will be able to use the command fm to fetch the latest scrobble
 
 # PLANS
--Adding charts and top lists
--adding scrobbling via command
--making application accessible via terminal
--visual improvements
--proper commenting inside code
+## Adding charts and top lists
+## adding scrobbling via command
+## making application accessible via terminal
+## visual improvements
+## proper commenting inside code
