@@ -6,11 +6,10 @@ python program to fetch information from last fm and display it in terminal (WOR
 ### ANYWHERE: OVER PYTHON
 install requirements .txt
 excecute main.py
-### WINDOWS ONLY: USE EXE
-install the zip file in releases, extract and excecute main.exe
+### #WINDOWS ONLY: USE EXE (DONT DO THIS ANYMORE EXE IS OUTDATED)
 ## COMMANDS
 ### fm = shows last played/currently playing
-### ta = shows list of top artists in specified timespan:
+### ta+tt = shows list of top artists/top tracks in specified timespan:
 valid periods = "overall", "7day", "1month", "3month", "6month", "12month"
 valid ammounts 1-200
 defaults:
